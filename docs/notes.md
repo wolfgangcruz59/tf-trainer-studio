@@ -9,3 +9,4 @@ Notes and usage details for tf-trainer-studio.
 - fix a small wording issue
 - link the usage section
 - link the usage section
+- link the usage section
